@@ -1,0 +1,197 @@
+
+<label>校区：</label>
+<option>请选择校区</option>
+
+<option value="1">滨江校区</option>
+
+<option value="51">新校区</option>
+
+<option value="140">学海校区</option>
+
+<option value="218">南院</option>
+
+
+<label>楼栋：</label>
+<option>请选择楼栋</option>
+
+<option value="52">亲民1栋</option>
+
+<option value="53">亲民2栋</option>
+
+<option value="54">亲民3栋</option>
+
+<option value="55">亲民4栋</option>
+
+<option value="227">南院10栋</option>
+
+<option value="224">南院6栋</option>
+
+<option value="225">南院7栋</option>
+
+<option value="226">南院8栋</option>
+
+<option value="294">南院商业门面</option>
+
+<option value="219">南院女生A栋</option>
+
+<option value="220">南院女生B栋</option>
+
+<option value="223">南院综合楼2</option>
+
+<option value="221">培训前楼</option>
+
+<option value="222">培训后楼</option>
+
+<option value="149">学海10栋</option>
+
+<option value="150">学海11栋</option>
+
+<option value="151">学海12栋</option>
+
+<option value="141">学海1栋</option>
+
+<option value="142">学海2栋</option>
+
+<option value="143">学海3栋</option>
+
+<option value="144">学海4栋</option>
+
+<option value="145">学海5栋</option>
+
+<option value="146">学海7栋</option>
+
+<option value="147">学海8栋</option>
+
+<option value="148">学海9栋</option>
+
+<option value="456">学海博士楼</option>
+
+<option value="451">学海家属楼10栋</option>
+
+<option value="452">学海家属楼11栋</option>
+
+<option value="453">学海家属楼12栋</option>
+
+<option value="454">学海家属楼13栋</option>
+
+<option value="455">学海家属楼14栋</option>
+
+<option value="442">学海家属楼1栋</option>
+
+<option value="443">学海家属楼2栋</option>
+
+<option value="444">学海家属楼3栋</option>
+
+<option value="445">学海家属楼4栋</option>
+
+<option value="446">学海家属楼5栋</option>
+
+<option value="447">学海家属楼6栋</option>
+
+<option value="448">学海家属楼7栋</option>
+
+<option value="449">学海家属楼8栋</option>
+
+<option value="450">学海家属楼9栋</option>
+
+<option value="587">学海校区洗衣机</option>
+
+<option value="354">学海门面</option>
+
+<option value="383">家属楼10栋</option>
+
+<option value="384">家属楼11栋</option>
+
+<option value="385">家属楼12栋</option>
+
+<option value="386">家属楼13栋</option>
+
+<option value="387">家属楼14栋</option>
+
+<option value="423">家属楼15栋</option>
+
+<option value="388">家属楼16栋</option>
+
+<option value="389">家属楼17栋</option>
+
+<option value="390">家属楼18栋</option>
+
+<option value="391">家属楼19栋</option>
+
+<option value="375">家属楼1栋</option>
+
+<option value="392">家属楼20栋</option>
+
+<option value="393">家属楼21栋</option>
+
+<option value="394">家属楼22栋</option>
+
+<option value="376">家属楼2栋</option>
+
+<option value="377">家属楼4栋</option>
+
+<option value="378">家属楼5栋</option>
+
+<option value="379">家属楼6栋</option>
+
+<option value="380">家属楼7栋</option>
+
+<option value="381">家属楼8栋</option>
+
+<option value="382">家属楼9栋</option>
+
+<option value="500">新校区后勤办公楼</option>
+
+<option value="273">新校区商业门面</option>
+
+<option value="534">新校区洗衣机</option>
+
+<option value="89">明德10栋</option>
+
+<option value="80">明德1栋</option>
+
+<option value="81">明德2栋</option>
+
+<option value="82">明德3栋</option>
+
+<option value="83">明德4栋</option>
+
+<option value="84">明德5栋</option>
+
+<option value="85">明德6栋</option>
+
+<option value="86">明德7栋</option>
+
+<option value="87">明德8栋</option>
+
+<option value="88">明德9栋</option>
+
+<option value="609">滨江10栋</option>
+
+<option value="610">滨江11栋</option>
+
+<option value="2">滨江1栋</option>
+
+<option value="3">滨江2栋</option>
+
+<option value="4">滨江3栋</option>
+
+<option value="5">滨江4栋</option>
+
+<option value="6">滨江5栋</option>
+
+<option value="7">滨江6栋</option>
+
+<option value="8">滨江7栋</option>
+
+<option value="361">滨江8栋</option>
+
+<option value="362">滨江9栋</option>
+
+<option value="623">滨江商业门面</option>
+
+<option value="577">滨江校区洗衣机</option>
+
+
+<label>房间：</label>
+<input type="text" id="roomName" name="roomName">
