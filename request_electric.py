@@ -27,7 +27,7 @@ if __name__ == '__main__':
     response2 = requests.get(url = "http://39.108.173.72:8080/isimshngc/monServlet?monType=0", headers = headers2)
     html = str(response2.text)
     yuer = html[620:625]
-    if float(yuer) <= 15:
+    if float(yuer) <= 15: #低于多少时提示
         email_mys.send_messega('寝室电费余额不足','电费余额:'+yuer)
     else:
         print('电费余额:'+yuer)
